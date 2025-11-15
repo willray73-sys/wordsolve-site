@@ -10,7 +10,7 @@ Welcome! This is the official support page for **Ultimate Wordle Companion**.
 
 ## Quick Links
 - **Privacy Policy:** [./privacy](https://willray73-sys.github.io/ultimate-wordle-companion-site/privacy)
-- **Contact email:** [./support@pixelquill.io](mailto:support@pixelquill.io)
+- **Contact email:** [support@pixelquill.io](mailto:support@pixelquill.io)
 
 ## Common Questions
 

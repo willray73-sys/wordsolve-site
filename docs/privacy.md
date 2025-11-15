@@ -31,5 +31,5 @@ Since no personal data is collected, there’s nothing to access or delete in-ap
 This policy may be updated; changes will appear here with a new effective date.
 
 ## Contact
-- Email: support@pixelquill.io
-- Issues: https://github.com/willray73-sys/ultimate-wordle-companion/issues
+- Email: [support@pixelquill.io](mailto:support@pixelquill.io)
+- Support: [./support](https://willray73-sys.github.io/ultimate-wordle-companion-site/support)

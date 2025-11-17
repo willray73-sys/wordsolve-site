@@ -9,7 +9,8 @@ title: Ultimate Wordle Companion — Privacy Policy
 - We **do not collect** or sell personal data.
 - No account is required.
 - No third-party ads or analytics SDKs are active at this time.
-- The app fetches word data from a remote API; standard server logs (e.g., IP, user-agent) may exist for operations/security and aren’t linked to identity.
+- The app connects to a remote service to retrieve word lists and definitions. These requests are not linked to any personal identifiers and are used solely to provide in-app functionality.
+- If future versions introduce optional analytics or advertising features, this policy will be updated to describe any data use.
 
 ## Technical & Diagnostic Data
 - **Apple/Google** may provide anonymized crash logs via TestFlight/Play. Used only to improve stability.
@@ -31,5 +32,5 @@ Since no personal data is collected, there’s nothing to access or delete in-ap
 This policy may be updated; changes will appear here with a new effective date.
 
 ## Contact
-- Email: [support@pixelquill.io](mailto:support@pixelquill.io)
-- Support: [./support](https://willray73-sys.github.io/ultimate-wordle-companion-site/support)
+- You can reach us with any privacy questions at: [support@pixelquill.io](mailto:support@pixelquill.io)
+- For Customer Support: [./support](https://willray73-sys.github.io/ultimate-wordle-companion-site/support)

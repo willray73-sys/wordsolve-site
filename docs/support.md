@@ -9,7 +9,7 @@ title: Wordler Companion — Support
 Welcome! This is the official support page for **Wordler Companion**.
 
 ## Quick Links
-- **Privacy Policy:** [./privacy](https://willray73-sys.github.io/ultimate-wordle-companion-site/privacy)
+- **Privacy Policy:** [./privacy](https://github.com/willray73-sys/wordler-companion-site/privacy)
 - **Contact email:** [support@pixelquill.io](mailto:support@pixelquill.io)
 
 ## Common Questions

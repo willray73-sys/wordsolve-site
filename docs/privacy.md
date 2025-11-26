@@ -33,4 +33,4 @@ This policy may be updated; changes will appear here with a new effective date.
 
 ## Contact
 - You can reach us with any privacy questions at: [support@pixelquill.io](mailto:support@pixelquill.io)
-- For Customer Support: [https://willray73-sys.github.io/wordler-companion-site/support](https://willray73-sys.github.io/wordler-companion-site/support)
+- For Customer Support: [https://willray73-sys.github.io/wordsolver-site/support](https://willray73-sys.github.io/wordsolver-site/support)

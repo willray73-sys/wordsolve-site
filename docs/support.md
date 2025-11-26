@@ -1,15 +1,15 @@
 ---
-title: WordSolver for 5-Letter Puzzles — Support
+title: WordSolve for 5-Letter Puzzles — Support
 ---
-# WordSolver — Support
+# WordSolve — Support
 
 **App ID:** com.pixelquill.wordlecomp  
 **Platforms:** iOS & Android
 
-Welcome! This is the official support page for **Wordler Companion**.
+Welcome! This is the official support page for **WordSolve for 5-Letter Puzzles**.
 
 ## Quick Links
-- **Privacy Policy:** [https://willray73-sys.github.io/wordsolver-site/privacy](https://willray73-sys.github.io/wordsolver-site/privacy)
+- **Privacy Policy:** [https://willray73-sys.github.io/wordsolve-site/privacy](https://willray73-sys.github.io/wordsolve-site/privacy)
 - **Contact email:** [support@pixelquill.io](mailto:support@pixelquill.io)
 
 ## Common Questions

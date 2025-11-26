@@ -1,9 +1,9 @@
 ---
-title: WordSolver for 5-Letter Puzzles — Privacy Policy
+title: WordSolve for 5-Letter Puzzles — Privacy Policy
 ---
 # Privacy Policy
 **Effective date:** {{ site.time | date: "%Y-%m-%d" }}  
-**App:** WordSolver (com.pixelquill.wordlecomp)
+**App:** WordSolve (com.pixelquill.wordlecomp)
 
 ## Summary
 - We **do not collect** or sell personal data.
@@ -33,4 +33,4 @@ This policy may be updated; changes will appear here with a new effective date.
 
 ## Contact
 - You can reach us with any privacy questions at: [support@pixelquill.io](mailto:support@pixelquill.io)
-- For Customer Support: [https://willray73-sys.github.io/wordsolver-site/support](https://willray73-sys.github.io/wordsolver-site/support)
+- For Customer Support: [https://willray73-sys.github.io/wordsolve-site/support](https://willray73-sys.github.io/wordsolve-site/support)

@@ -3,6 +3,7 @@ title: WordSolve for 5-Letter Puzzles — Support
 ---
 
 **App:** WordSolve for 5-Letter Puzzles
+
 **Platforms:** iOS & Android
 
 Welcome! This is the official support page for **WordSolve for 5-Letter Puzzles**.
@@ -16,7 +17,7 @@ Welcome! This is the official support page for **WordSolve for 5-Letter Puzzles*
 ### The app won’t open / crashes
 1. Force quit and reopen.
 2. Update to the latest TestFlight/Play build.
-3. If it persists, open a GitHub Issue with device, OS, and steps.
+3. If the issue continues, please contact us at support@pixelquill.io.
 
 ### Do I need an account?
 No. The app does not require sign-in or collect personal data.

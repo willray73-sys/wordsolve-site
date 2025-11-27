@@ -3,7 +3,7 @@ title: WordSolve for 5-Letter Puzzles — Privacy Policy
 ---
 # Privacy Policy
 **Effective date:** {{ site.time | date: "%Y-%m-%d" }}  
-**App:** WordSolve (com.pixelquill.wordlecomp)
+**App:** WordSolve for 5-Letter Puzzles
 
 ## Summary
 - We **do not collect** or sell personal data.

@@ -1,1 +1,1 @@
-![Title image](/assets/images/A_Mockup1.png)
+![Title image](/assets/logo.png)

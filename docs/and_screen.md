@@ -4,14 +4,14 @@
 
 ![Main Screenshot](/docs/assets/and_main.png)
 
-![Main Screenshot](/docs/assets/and_fw.png)
+![First Word Screenshot](/docs/assets/and_fw.png)
 
-![Main Screenshot](/docs/assets/and_fw2.png)
+![First Word 2 Screenshot](/docs/assets/and_fw2.png)
 
-![Main Screenshot](/docs/assets/and_pw.png)
+![Past Word Screenshot](/docs/assets/and_pw.png)
 
-![Main Screenshot](/docs/assets/and_pw2.png)
+![Past Word 2 Screenshot](/docs/assets/and_pw2.png)
 
-![Main Screenshot](/docs/assets/and_pw3.png)
+![Past Word 3 Screenshot](/docs/assets/and_pw3.png)
 
-![Main Screenshot](/docs/assets/and_pw4.png)
+![Past Word 4 Screenshot](/docs/assets/and_pw4.png)
